@@ -1,0 +1,14 @@
+John Doe,15/5/1985,1
+Mary Smith,20/8/1990,2
+James Wilson,12/3/1982,3
+Linda Johnson,25/7/1995,4
+Michael Brown,10/12/1987,5
+Sarah Davis,3/11/1993,6
+David Miller,18/6/1980,7
+Elizabeth Taylor,5/4/1992,8
+Robert Anderson,29/9/1986,9
+Jessica Thomas,17/1/1994,10
+Nguyen Van A,1/1/2005,11
+Nguyen Van B,2/2/2002,12
+Nguyen Van C,1/1/2000,13
+Nguyen Van D,3/12/2005,14

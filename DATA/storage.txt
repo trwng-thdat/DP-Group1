@@ -1,0 +1,12 @@
+textbook,Chemistry: The Central Science,Theodore L. Brown,2014,Science,available
+novel,To Kill a Mockingbird,Harper Lee,1960,Fiction,available
+textbook,Introduction to Algorithms,Thomas H. Cormen,2009,Computer Science,available
+novel,1984,George Orwell,1949,Dystopian,available
+textbook,Fundamentals of Physics,David Halliday,2014,Physics,available
+novel,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,available
+textbook,Organic Chemistry,David R. Klein,2017,Chemistry,available
+novel,Moby-Dick,Herman Melville,1851,Fiction,available
+textbook,Principles of Microeconomics,N. Gregory Mankiw,2017,Economics,available
+novel,The Catcher in the Rye,J.D. Salinger,1951,Fiction,available
+textbook,Toan hoc to hop,Co A,2020,Math,borrowed,14
+novel,Mat biec,Nguyen Nhat Anh,2010,Tinh cam,available
